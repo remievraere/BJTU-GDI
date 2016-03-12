@@ -29,8 +29,10 @@ By using your keyboard, your character will move, 4 key will be used for the gam
 - Arrow-left : To move your character on the left.
 - Arrow-Right : To move your character on the right.
 
-Sometimes you can find a power, which allows you to throw projectile with enter and kill enemies. Otherwise, you'll have to dodge them.
+Sometimes you can find a power, which allows you to throw projectile with enter and kill enemies. Otherwise, you'll have to dodge them. But use this power precautiously, while this power is really strong (one shot enemies), you only have 3 ammo.
 
 Care, the level is set with a lot of traps which make the game harder than ever.
 
 ## Gameworld
+
+The game take place 
