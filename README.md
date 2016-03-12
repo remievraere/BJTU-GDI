@@ -10,7 +10,7 @@ Mhardio is a Mario like with a very high difficulty in 2 Dimensions.
 
 ## Goal
 
-You start as a higly wanted criminal and just escaped from your jail. The whole world is poursuing you in a 2 dimensions world split in few levels in many different place.
+You start as a higly wanted criminal and just escaped from your jail. The whole world is poursuing you in a 2 dimensions world split in few levels in many different places.
 The purpose of this game is to reach the end of the level without dying.
 
 ## Rules
@@ -31,7 +31,7 @@ By using your keyboard, your character will move, 4 key will be used for the gam
 
 Sometimes you can find a power, which allows you to throw projectile with enter and kill enemies. Otherwise, you'll have to dodge them. But use this power precautiously, while this power is really strong (one shot enemies), you only have 3 ammo.
 
-Care, the level is set with a lot of traps which make the game harder than ever.
+Warning, the level is set with a lot of traps which make the game harder than ever.
 
 ## Gameworld
 
