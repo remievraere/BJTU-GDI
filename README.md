@@ -35,4 +35,4 @@ Care, the level is set with a lot of traps which make the game harder than ever.
 
 ## Gameworld
 
-The game take place 
+The design level change according to the level, every one have it's own specificity. 
