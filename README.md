@@ -13,7 +13,7 @@ Mhardio is a Mario like with a very high difficulty in 2 Dimensions.
 You start as a higly wanted criminal and just escaped from your jail. The whole world is poursuing you in a 2 dimensions world split in few levels in many different place.
 The purpose of this game is to reach the end of the level without dying.
 
-## Rule
+## Rules
 
 During the course of the level, a lot of obstacle will try to make you lose. Whatever is the obstacle, you'll die instantly if you can't avoid it. Let's see them :
 - If you fall in a hole.
